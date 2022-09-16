@@ -1,0 +1,10 @@
+*.jpg
+*.jpeg
+result.csv
+result1.csv
+hello_opencv.py
+__pycache__
+read_camera.py
+utils.py
+blah.ipynb
+
