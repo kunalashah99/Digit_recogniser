@@ -1,5 +1,3 @@
 # Digit_recogniser
 
-## ToDO
-- [ ] Create a plot comparing negative results against models
-- [ ] 
+This is the first Neural Network designed by me in order to recognize digits using pytorch
